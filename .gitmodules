@@ -1,0 +1,3 @@
+[submodule "cool_stuff"]
+	path = cool_stuff
+	url = git://github.com/carlhuda/cool_stuff.git
